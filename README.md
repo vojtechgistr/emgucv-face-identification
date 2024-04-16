@@ -6,8 +6,8 @@ A WinForms application that recognizes your face using any RGB camera and identi
 
 ## Dependencies Libraries and Products
 #### [emgucv](https://github.com/emgucv/emgucv)
-> **License:** GNU General Public License v3.0<br />
+> **License:** GNU General Public License v3.0
 >
-> **Author:** emgucv<br />
+> **Author:** emgucv
 >
 > **Principal Use:** Image manipulation and prediction
